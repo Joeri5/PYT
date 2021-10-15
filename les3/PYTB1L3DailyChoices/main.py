@@ -1,0 +1,1 @@
+d1 = input("Wat wil je als ontbijt? : A)Banaan B)Appel [A/B]:")
